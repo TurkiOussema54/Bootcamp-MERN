@@ -1,0 +1,114 @@
+ _____________________________________
+
+https://pokeapi.co/api/v2/berry/6
+_____________________________________
+
+"growth_time": 4,
+    "id": 6,
+    "item": {
+        "name": "leppa-berry",
+        "url": "https://pokeapi.co/api/v2/item/131/"
+    },
+    "max_harvest": 5,
+    "name": "leppa",
+    "natural_gift_power": 60,
+    "natural_gift_type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+    },
+    "size": 28,
+    "smoothness": 20,
+    "soil_dryness": 15
+}
+
+_____________________________________
+
+https://pokeapi.co/api/v2/berry/28
+_____________________________________
+
+ "growth_time": 6,
+    "id": 28,
+    "item": {
+        "name": "magost-berry",
+        "url": "https://pokeapi.co/api/v2/item/153/"
+    },
+    "max_harvest": 10,
+    "name": "magost",
+    "natural_gift_power": 70,
+    "natural_gift_type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+    },
+    "size": 140,
+    "smoothness": 30,
+    "soil_dryness": 10
+}
+
+_____________________________________
+
+https://pokeapi.co/api/v2/berry/31
+_____________________________________
+
+
+ "growth_time": 15,
+    "id": 31,
+    "item": {
+        "name": "spelon-berry",
+        "url": "https://pokeapi.co/api/v2/item/156/"
+    },
+    "max_harvest": 15,
+    "name": "spelon",
+    "natural_gift_power": 70,
+    "natural_gift_type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+    },
+    "size": 133,
+    "smoothness": 35,
+    "soil_dryness": 8
+}
+
+_____________________________________
+
+https://pokeapi.co/api/v2/berry/45
+_____________________________________
+
+    "growth_time": 18,
+    "id": 45,
+    "item": {
+        "name": "payapa-berry",
+        "url": "https://pokeapi.co/api/v2/item/170/"
+    },
+    "max_harvest": 5,
+    "name": "payapa",
+    "natural_gift_power": 60,
+    "natural_gift_type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+    },
+    "size": 252,
+    "smoothness": 30,
+    "soil_dryness": 6
+}
+
+_____________________________________
+
+https://pokeapi.co/api/v2/berry/60_____________________________________
+
+ "growth_time": 24,
+    "id": 60,
+    "item": {
+        "name": "enigma-berry",
+        "url": "https://pokeapi.co/api/v2/item/185/"
+    },
+    "max_harvest": 5,
+    "name": "enigma",
+    "natural_gift_power": 80,
+    "natural_gift_type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+    },
+    "size": 155,
+    "smoothness": 60,
+    "soil_dryness": 7
+}
